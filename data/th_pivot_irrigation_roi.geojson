@@ -5,5 +5,8 @@
 { "type": "Feature", "properties": { "Name": "Farmington West" }, "geometry": { "type": "Polygon", "coordinates": [ [ 
 [ -108.5, 36.5 ], [ -108.15, 36.5  ], [ -108.15, 36.75 ], [ -108.5, 36.75 ], [ -108.5, 36.5 ]  
 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Farmington East" }, "geometry": { "type": "Polygon", "coordinates": [ [ 
+[ -107.5, 36.5 ], [ -107.15, 36.5  ], [ -107.15, 36.75 ], [ -107.5, 36.75 ], [ -107.5, 36.5 ]  
+] ] } },
 ]
 }
